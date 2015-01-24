@@ -1,0 +1,25 @@
+{
+    "name": "raphhh/trex-parser",
+    "description": "A bootstrap for a PHP lib, including basic common files and settings",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Raphaël Lefebvre",
+            "email": "raphael@raphaellefebvre.be"
+        }
+    ],
+    "keywords": ["bootstrap"],
+    "homepage": "https://github.com/Raphhh/trex-parser",
+    "autoload": {
+        "psr-4": {
+            "TRex\\Parser\\": ["src/", "tests/"]
+        }
+    },
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "@stable"
+    }
+}

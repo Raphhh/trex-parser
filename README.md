@@ -1,2 +1,11 @@
-# trex-parser
-parses text and extracts statements
+# TRex parser
+
+[![Latest Stable Version](https://poser.pugx.org/raphhh/trex-parser/v/stable.svg)](https://packagist.org/packages/raphhh/trex-parser)
+[![Build Status](https://travis-ci.org/Raphhh/trex-parser.png)](https://travis-ci.org/Raphhh/trex-parser)
+[![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/Raphhh/trex-parser/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Raphhh/trex-parser/)
+[![Code Coverage](https://scrutinizer-ci.com/g/Raphhh/trex-parser/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Raphhh/trex-parser/)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/1eaf3345-68ec-44ff-8fed-bcbd4721bb13/mini.png)](https://insight.sensiolabs.com/projects/1eaf3345-68ec-44ff-8fed-bcbd4721bb13)
+[![Dependency Status](https://www.versioneye.com/user/projects/54062eb9c4c187ff6100006f/badge.svg?style=flat)](https://www.versioneye.com/user/projects/54062eb9c4c187ff6100006f)
+[![Total Downloads](https://poser.pugx.org/raphhh/trex-parser/downloads.svg)](https://packagist.org/packages/raphhh/trex-parser)
+[![Reference Status](https://www.versioneye.com/php/raphhh:trex-parser/reference_badge.svg?style=flat)](https://www.versioneye.com/php/raphhh:trex-parser/references)
+[![License](https://poser.pugx.org/raphhh/trex-parser/license.svg)](https://packagist.org/packages/raphhh/trex-parser)
