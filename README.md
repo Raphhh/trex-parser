@@ -9,3 +9,5 @@
 [![Total Downloads](https://poser.pugx.org/raphhh/trex-parser/downloads.svg)](https://packagist.org/packages/raphhh/trex-parser)
 [![Reference Status](https://www.versioneye.com/php/raphhh:trex-parser/reference_badge.svg?style=flat)](https://www.versioneye.com/php/raphhh:trex-parser/references)
 [![License](https://poser.pugx.org/raphhh/trex-parser/license.svg)](https://packagist.org/packages/raphhh/trex-parser)
+
+PHP tool to parse text and extract statements.
