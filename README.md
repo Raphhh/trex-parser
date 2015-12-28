@@ -48,3 +48,27 @@ foreach($classReflections as $className => $classReflection){
     $objects[$className] = $classReflection->newInstance();
 }        
 ```
+
+
+### ClassName
+
+#### Retrieve base name
+
+```php
+$className = new ClassName('\Foo\Qux\Bar');
+$className->getBaseName(); //"Bar"
+```
+
+#### Retrieve namespace
+
+```php
+$className = new ClassName('\Foo\Qux\Bar');
+$className->getNamespace(); //"Foo\Qux"
+```
+
+#### Split
+
+```php
+$className = new ClassName('\Foo\Qux\Bar');
+$className->split(); //["Foo", "Qux", "Bar"]
+```
