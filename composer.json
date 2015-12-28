@@ -1,6 +1,6 @@
 {
     "name": "raphhh/trex-parser",
-    "description": "A bootstrap for a PHP lib, including basic common files and settings",
+    "description": "A PHP tool to parse code and extract statements",
     "type": "library",
     "license": "MIT",
     "authors": [
